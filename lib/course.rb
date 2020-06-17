@@ -16,5 +16,5 @@ class Course
         @@all.clear
     end
 end
-© 2020 GitHub, Inc.
+
 
